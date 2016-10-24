@@ -23,8 +23,8 @@ description: Sekolah Kejuruan Darul Falah
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
-  Resources:
+  Tentang: "aboutme"
+  Katagori:
     - Beautiful Jekyll: #"http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: #"http://www.markdowntutorial.com/"
     - GitHub Pages: #"https://pages.github.com/"
