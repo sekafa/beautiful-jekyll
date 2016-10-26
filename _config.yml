@@ -86,7 +86,7 @@ url-pretty: "janganmau.ml"  # eg. "deanattali.com/beautiful-jekyll"
 #disqus: ""
 
 # Fill in your Google Analytics ID to track your website using GA
-#google_analytics: ""
+google_analytics: "UA-86339927-1"
 
 # Facebook App ID
 # fb_app_id: ""
